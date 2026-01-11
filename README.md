@@ -1,7 +1,7 @@
 # 密语 CipherTalk
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.1-green.svg)](package.json)
+[![Version](https://img.shields.io/badge/version-1.0.6-green.svg)](package.json)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)]()
 
 基于 Electron + React + TypeScript 构建的聊天记录查看工具界面，基于原项目 [EchoTrace](https://github.com/ycccccccy/echotrace) 重构。

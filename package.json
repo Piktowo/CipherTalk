@@ -5,6 +5,7 @@
   "main": "dist-electron/main.js",
   "scripts": {
     "dev": "vite",
+    "prebuild": "node scripts/update-readme-version.js",
     "build": "tsc && vite build && electron-builder && node scripts/add-size-to-yml.js",
     "preview": "vite preview",
     "electron:dev": "vite --mode electron",
